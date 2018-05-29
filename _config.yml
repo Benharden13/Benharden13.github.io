@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: huangben13
+subtitle: hb
+description: 记录每天的日志文件
 keywords:
-author: John Doe
+author: 黄奔
 language:
 timezone:
 
@@ -73,11 +73,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: icaurs
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/huangben13/huangben13.github.io
-  branch: master
+  repo: git@github.com:huangben13/huangben13.github.io.git
+  branch: branch
